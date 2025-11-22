@@ -1,7 +1,7 @@
 import sys
 
 if len(sys.argv) ! = 3:
-     print("Usage: Python student.py <name>")
+     print("Usage: Python student.py <name> <rollno>")
      sys.exit(1)
 
 #sys.argv[0] is always the program name
